@@ -18,12 +18,6 @@
 </div>
 
 </div>
-<div align="center">
-    <br><br>
-    <a href="https://www.youtube.com/watch?v=CzJQEstIiEI&ab_channel=JavaScriptMastery" target="_blank">Project Video</a>
-    <br>
-    <a href="https://github.com/adrianhajdin" target="_blank">Adrian Hajdin GitHub</a>
-</div>
 <br>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -38,8 +32,6 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on Javascript Mastery YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
 If you prefer visual learning, this is the perfect resource for you. Follow JSM's tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 <a href="https://youtu.be/CzJQEstIiEI" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
@@ -47,10 +39,6 @@ If you prefer visual learning, this is the perfect resource for you. Follow JSM'
 ## <a name="introduction">🤖 Introduction</a>
 
 Build a full-stack Real Estate application with React Native, featuring Google authentication, dynamic property listings, and user profiles. Designed with modern tools like Expo SDK 52, Appwrite, Tailwind CSS, and TypeScript for a seamless and scalable experience.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -92,8 +80,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/rr3s1/Real-Estate-MobileApp.git
-cd Real-Estate-MobileApp
+git clone https://github.com/SuperH0st/Real-Estate-App
+cd Real-Estate-App
 ```
 
 **Installation** 
@@ -451,26 +439,11 @@ export const useAppwrite = <T, P extends Record<string, string | number>>({
 
 </details>
 
-## <a name="links">🔗 Assets</a>
-
-Assets and Constants used in the project can be found [here](https://drive.google.com/file/d/1HxuvAeJfiPfcZ1co5fU0ahKRw4sbA0gO/view?usp=sharing)
-
-Appwrite Database Setup can be found [here](https://jsmastery.notion.site/Database-Setup-16260f3cbaf3807f8fb6cbed8d1e84fd)
-
-
-
-
-## 🤝 Acknowledgments
-
-Adrian Hajdin: For the comprehensive tutorial and
-guidance. [JavaScript Mastery](https://www.youtube.com/watch?v=kt0FrkQgw8w&t=3910s&ab_channel=JavaScriptMastery).
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 Note: This project is for educational purposes and is free to use under the terms of the MIT License.
-
 
 ## <a name="more">🚀 More</a>
 
@@ -478,8 +451,3 @@ Note: This project is for educational purposes and is free to use under the term
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
-
