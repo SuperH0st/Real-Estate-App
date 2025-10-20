@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/CzJQEstIiEI" target="_blank">
       <img width="308" height="452" alt="image" src="https://github.com/user-attachments/assets/57cf9102-6f73-4316-aeba-6ac6e41f9511" />
-    </a>
     <br />
    <br />
   <div>
@@ -13,9 +11,6 @@
   </div>
 
   <h1 align="center">Real Estate Mobile App</h1>
-   <div align="center">     
-<img width="506" height="502" alt="image" src="https://github.com/user-attachments/assets/a86eb82f-8aa8-4297-a5f3-238881d31ba6" />
-</div>
 
 </div>
 <br>
@@ -32,13 +27,11 @@
 
 ## 🚨 Tutorial
 
-If you prefer visual learning, this is the perfect resource for you. Follow JSM's tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/CzJQEstIiEI" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Build a full-stack Real Estate application with React Native, featuring Google authentication, dynamic property listings, and user profiles. Designed with modern tools like Expo SDK 52, Appwrite, Tailwind CSS, and TypeScript for a seamless and scalable experience.
+
+If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -439,6 +432,15 @@ export const useAppwrite = <T, P extends Record<string, string | number>>({
 
 </details>
 
+## <a name="links">🔗 Assets</a>
+
+Assets and Constants used in the project can be found [here](https://drive.google.com/file/d/1HxuvAeJfiPfcZ1co5fU0ahKRw4sbA0gO/view?usp=sharing)
+
+
+
+
+## 🤝 Acknowledgments
+
 ## 📄 License
 
 This project is licensed under the MIT License.
@@ -451,3 +453,4 @@ Note: This project is for educational purposes and is free to use under the term
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+
