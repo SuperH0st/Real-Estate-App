@@ -73,8 +73,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/rr3s1/Real-Estate-MobileApp.git
-cd Real-Estate-MobileApp
+git clone https://github.com/SuperH0st/Real-Estate-App
+cd Real-Estate-App
 ```
 
 **Installation** 
@@ -446,7 +446,6 @@ Assets and Constants used in the project can be found [here](https://drive.googl
 This project is licensed under the MIT License.
 
 Note: This project is for educational purposes and is free to use under the terms of the MIT License.
-
 
 ## <a name="more">🚀 More</a>
 
